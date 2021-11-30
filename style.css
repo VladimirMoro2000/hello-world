@@ -1,0 +1,18 @@
+body{
+  width: 100%;
+}
+
+.container{
+    width: 100%;
+}
+
+.header{
+    width: 100%;
+    background-color: gray;
+    display: grid;
+    grid-template-columns: 1fr 2fr 2fr;
+}
+
+.logo-band{
+    width: 100px;
+}
